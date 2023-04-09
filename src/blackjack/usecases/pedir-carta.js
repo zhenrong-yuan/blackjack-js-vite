@@ -1,4 +1,3 @@
-
 /**
  * 
  * @param {Array<String>} deck Arreglo de todas las cartas del deck en juego.
