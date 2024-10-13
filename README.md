@@ -1,6 +1,6 @@
 # BlackJack
 
-BlackJack game app
+BlackJack game app.
 
 # How to execute
 
