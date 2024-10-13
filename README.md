@@ -7,4 +7,4 @@ BlackJack game app.
 1. To clone repository
 2. Execute ```npm install``` to get node modules.
 3. To run developer mode ```npm run dev```
-4. Navigate to: ```http://localhost:3000```
+4. Navigate to: ```http://localhost:5173```
