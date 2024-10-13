@@ -1,13 +1,10 @@
-# BlackJack Vite
+# BlackJack
 
-Pasos para ejecutar proyecto:
+BlackJack video game app
 
-1. Clonar repositorio
-2. Ejecutar ```npm install``` para reconstruir los mòdulos de node.
-3. Correr el devServer ```npm run dev```
-4. Abrir el proyecto en: ```http://localhost:3000``` o desde el enlace que muestra la consola.
+# How to execute
 
-## Producción
-
-1. Ejecutar ```npm run build````
-2. Tomar la carpeta ```dist```y desplegarla.
+1. To clone repository
+2. Execute ```npm install``` to get node modules.
+3. To run developer mode ```npm run dev```
+4. Navigate to: ```http://localhost:3000```
